@@ -1,6 +1,6 @@
-<h2  align="center">Hi there 👋</h2>
 <p align="center">
-    <samp>
+    <b>Hi there 👋</b><br>
+  <samp>
 I'm Kartik. A Full Stack Web Developer from Delhi, India.
   </samp>
 </p>
