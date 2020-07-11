@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <samp>
+I'm Kartik. A Full Stack Web Developer from Delhi, India.
+  </samp>
+</p>
+
 <!--
 **TheDemon12/TheDemon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
