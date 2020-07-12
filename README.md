@@ -3,6 +3,8 @@
   <samp>
 I'm Kartik. A Full Stack Web Developer from Delhi, India.
   </samp>
+    <br><br>
+    Contact me on <a href="https://t.me/thedemon12">Telegram</a> or <a href="mailto=kartikbhalla12@gmail.com">Send an Email<a>
 </p>
 
 <!--
