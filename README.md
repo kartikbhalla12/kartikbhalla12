@@ -3,9 +3,12 @@
   <samp>
 I'm Kartik. A Full Stack Web Developer from Delhi, India.
   </samp>
-    <br><br>
-    Contact me on <a href="https://t.me/thedemon12">Telegram</a> or <a href="mailto:kartikbhalla12@gmail.com" >Send an Email<a>
+    <br>
+    <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /><br>
+     Contact me on <a href="https://t.me/thedemon12">Telegram</a> or <a href="mailto:kartikbhalla12@gmail.com" >Send an Email<a><br>
 </p>
+    
+    
 
 <!--
 **TheDemon12/TheDemon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
