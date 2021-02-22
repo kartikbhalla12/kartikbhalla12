@@ -1,5 +1,5 @@
 <p align="center">
-    <b>Hi there 👋</b><br>
+    <b>Hi there 👋</b><br><br>
   <samp>
 I'm Kartik. A Full Stack Web Developer from Delhi, India.
   </samp>
